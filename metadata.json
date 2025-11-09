@@ -1,0 +1,5 @@
+{
+  "name": "Nexus AI",
+  "description": "A web application that serves as a 'Data Trust Layer' to connect, unify, and normalize data from various business systems like CRM and ERP. It provides a single source of truth for reliable analytics and decision-making.",
+  "requestFramePermissions": []
+}
